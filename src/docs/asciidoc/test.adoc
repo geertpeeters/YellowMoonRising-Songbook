@@ -1,0 +1,23 @@
+== TEST
+
+.VERSE
+[verse]
+____
+
+[chord]#F#  [chord]#G#     [chord]#Em7#
+Oh oh Alabama,
+[chord]#F#         [chord]#G#              [chord]#F#         [chord]#C#
+The devil fools with the best laid plans
+[chord]#F#     [chord]#G#      [chord]#Em7#
+Swing low Alabama.
+____
+
+.CHORUS
+[verse]
+____
+[chord]#F#                          [chord]#D#
+[chorus]#You got the spare change - you got to feel strange#
+[chord]#E#                  [chord]#F#           [chord]#G#
+[chorus]#And now the moment is all that it meant.#
+____
+

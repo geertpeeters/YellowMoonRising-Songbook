@@ -1,0 +1,11 @@
+:Author: Geert Peeters
+:stylesdir: ./stylesheets
+:stylesheet: iconic.css
+:imagesdir: ./images
+:doctype: book
+:icons: font
+:Date: {docdate}
+:encoding: utf-8
+:lang: en
+:pdf-style: default
+

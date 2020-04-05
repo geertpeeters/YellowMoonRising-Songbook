@@ -1,0 +1,10 @@
+extends: default
+verse:
+  font-family: Courier
+role:
+  chord:
+    font_color: #00cc00
+    font_style: bold
+  chorus:
+    font_color: #ff7070
+    font_style: bold

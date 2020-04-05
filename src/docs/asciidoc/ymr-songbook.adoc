@@ -1,0 +1,6 @@
+include::0-headers.adoc[]
+
+== Yellow Moon Rising Songbook
+
+include::test.adoc[]
+include::Alabama.adoc[]
